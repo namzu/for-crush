@@ -1,15 +1,15 @@
 <div align="center">
-  <a href="https://lugh-tuatha.github.io/hands-for-filipinos/">
+  <a href=>
     <img src="img/readme-2.png" alt="Logo" height="80">
   </a>
 
   <p align="center">
     Anti Rejection
     <br />
-    <a href="https://lugh-tuatha.github.io/yes-or-yes/">View Demo</a>
+    <a href="</a>
     ·
-    <a href="https://github.com/lugh-tuatha/yes-or-yes/issues">Report Bug</a>
+    <a href=</a>
     ·
-    <a href="https://github.com/lugh-tuatha/yes-or-yes/issues">Request Feature</a>
+    <a href=</a>
   </p>
 </div>
